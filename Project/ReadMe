@@ -1,0 +1,12 @@
+# Step 1: Install core requirements (REQUIRED)
+pip install matplotlib numpy
+
+# Step 2: Install Excel support (OPTIONAL but recommended)
+pip install pandas openpyxl xlsxwriter
+
+# Step 3: Install PDF support (OPTIONAL)
+pip install fpdf
+
+
+#Then run the program:
+python motor_simulator.py
